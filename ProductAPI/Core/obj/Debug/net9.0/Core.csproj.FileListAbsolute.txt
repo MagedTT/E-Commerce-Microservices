@@ -1,0 +1,15 @@
+/Users/magedtarak/Desktop/eCommerceMicroservices/ProductAPI/Core/bin/Debug/net9.0/Core.deps.json
+/Users/magedtarak/Desktop/eCommerceMicroservices/ProductAPI/Core/bin/Debug/net9.0/Core.dll
+/Users/magedtarak/Desktop/eCommerceMicroservices/ProductAPI/Core/bin/Debug/net9.0/Core.pdb
+/Users/magedtarak/Desktop/eCommerceMicroservices/ProductAPI/Core/bin/Debug/net9.0/CoreLib.dll
+/Users/magedtarak/Desktop/eCommerceMicroservices/ProductAPI/Core/bin/Debug/net9.0/CoreLib.pdb
+/Users/magedtarak/Desktop/eCommerceMicroservices/ProductAPI/Core/obj/Debug/net9.0/Core.csproj.AssemblyReference.cache
+/Users/magedtarak/Desktop/eCommerceMicroservices/ProductAPI/Core/obj/Debug/net9.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/magedtarak/Desktop/eCommerceMicroservices/ProductAPI/Core/obj/Debug/net9.0/Core.AssemblyInfoInputs.cache
+/Users/magedtarak/Desktop/eCommerceMicroservices/ProductAPI/Core/obj/Debug/net9.0/Core.AssemblyInfo.cs
+/Users/magedtarak/Desktop/eCommerceMicroservices/ProductAPI/Core/obj/Debug/net9.0/Core.csproj.CoreCompileInputs.cache
+/Users/magedtarak/Desktop/eCommerceMicroservices/ProductAPI/Core/obj/Debug/net9.0/Core.csproj.Up2Date
+/Users/magedtarak/Desktop/eCommerceMicroservices/ProductAPI/Core/obj/Debug/net9.0/Core.dll
+/Users/magedtarak/Desktop/eCommerceMicroservices/ProductAPI/Core/obj/Debug/net9.0/refint/Core.dll
+/Users/magedtarak/Desktop/eCommerceMicroservices/ProductAPI/Core/obj/Debug/net9.0/Core.pdb
+/Users/magedtarak/Desktop/eCommerceMicroservices/ProductAPI/Core/obj/Debug/net9.0/ref/Core.dll

@@ -1,0 +1,12 @@
+/Users/magedtarak/Desktop/eCommerceMicroservices/CoreLib/bin/Debug/net9.0/CoreLib.deps.json
+/Users/magedtarak/Desktop/eCommerceMicroservices/CoreLib/bin/Debug/net9.0/CoreLib.dll
+/Users/magedtarak/Desktop/eCommerceMicroservices/CoreLib/bin/Debug/net9.0/CoreLib.pdb
+/Users/magedtarak/Desktop/eCommerceMicroservices/CoreLib/obj/Debug/net9.0/CoreLib.csproj.AssemblyReference.cache
+/Users/magedtarak/Desktop/eCommerceMicroservices/CoreLib/obj/Debug/net9.0/CoreLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/magedtarak/Desktop/eCommerceMicroservices/CoreLib/obj/Debug/net9.0/CoreLib.AssemblyInfoInputs.cache
+/Users/magedtarak/Desktop/eCommerceMicroservices/CoreLib/obj/Debug/net9.0/CoreLib.AssemblyInfo.cs
+/Users/magedtarak/Desktop/eCommerceMicroservices/CoreLib/obj/Debug/net9.0/CoreLib.csproj.CoreCompileInputs.cache
+/Users/magedtarak/Desktop/eCommerceMicroservices/CoreLib/obj/Debug/net9.0/CoreLib.dll
+/Users/magedtarak/Desktop/eCommerceMicroservices/CoreLib/obj/Debug/net9.0/refint/CoreLib.dll
+/Users/magedtarak/Desktop/eCommerceMicroservices/CoreLib/obj/Debug/net9.0/CoreLib.pdb
+/Users/magedtarak/Desktop/eCommerceMicroservices/CoreLib/obj/Debug/net9.0/ref/CoreLib.dll
