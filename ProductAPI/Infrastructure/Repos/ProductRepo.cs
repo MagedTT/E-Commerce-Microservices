@@ -1,7 +1,7 @@
 using System.Linq.Expressions;
 using CoreLib.Interfaces;
 using Microsoft.EntityFrameworkCore;
-using ProductAPI.Application.Interfaces;
+using ProductAPI.Core.Interfaces;
 using ProductAPI.Core.Models;
 using ProductAPI.Infrastructure.Data;
 
